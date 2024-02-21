@@ -1,0 +1,14 @@
+.weather {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.width-200 {
+    width: 200px;
+}
+.colorRed {
+    color: red;
+}
+.colorBlue {
+    color: blue;
+}
